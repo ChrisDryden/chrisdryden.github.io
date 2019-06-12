@@ -27,6 +27,17 @@ layout: compress
     }
     </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125012328-3"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-125012328-3');
+    </script>
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a3f3bedafbec119134e80504e/0a1258b7988c3ce0631b1c541.js");
+    </script>
     <style>
         .links a {
             color:  #3b393d !important;
@@ -40,10 +51,10 @@ layout: compress
             <h1>Prophet Rishi<span>Peace Be Upon Me</span></h1>
 
         <nav class="links">
-            <a href="https://twitter.com/chrispauldryden"><i class="fa fa-twitter-square fa-3x"></i></a>
-            <a href="https://instagram.com/chrispauldryden"><i class="fa fa-instagram fa-3x"></i></a>
-            <a href="https://facebook.com/chrispauldryden"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="https://github.com/chrisdryden"><i class="fa fa-github-square fa-3x"></i></a>
+            <a href="https://twitter.com/Rishi_Giri_"><i class="fa fa-twitter-square fa-3x"></i></a>
+            <a href="https://instagram.com/iama_rishi"><i class="fa fa-instagram fa-3x"></i></a>
+            <a href="https://facebook.com/RishiDotJS"><i class="fa fa-facebook-square fa-3x"></i></a>
+            <a href="https://github.com/CodeDotJS"><i class="fa fa-github-square fa-3x"></i></a>
         </nav>
         </header>
         <div class="content">

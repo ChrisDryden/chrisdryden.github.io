@@ -1,0 +1,7 @@
+# Site settings
+title: Prophet Rishi
+description: Prophet Rishi - Weekly Updates!
+keywords: parody, nodisrespect, fun, updates
+author: Rishi
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "prophetrishi.ml" # the base hostname & protocol for your site

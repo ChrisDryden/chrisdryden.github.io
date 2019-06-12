@@ -67,7 +67,6 @@
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 35px 30px 0px;
-	background-color: grey;
 }
 
 .card__container--closed .card__caption {

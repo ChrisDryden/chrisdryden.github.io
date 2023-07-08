@@ -5,3 +5,6 @@ keywords: digital, portfolio, resume
 author: Chris Dryden 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "chrisdryden.com" # the base hostname & protocol for your site
+feed:
+  posts_limit: 20
+
